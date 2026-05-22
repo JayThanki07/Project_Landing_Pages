@@ -1,1 +1,2 @@
 # Project_Landing_Pages
+This is a small project which helps you build understanding of how flex box works. It is a great practice for flexbox and it's following properties and attributes. This project helped me to put my understanding of flexbox at higher level.
